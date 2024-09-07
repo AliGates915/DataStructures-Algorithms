@@ -10,17 +10,12 @@
 - [Rotate Array](https://leetcode.com/problems/rotate-array/) - [Cpp Solution](./solutions/Rotate%20Array.cpp)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - [Cpp Solution](./solutions/Contains%20Duplicate.cpp)
 - [Single Number](https://leetcode.com/problems/single-number/) - [Cpp Solution](./solutions/Single%20Number.cpp)
-- [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) - [Cpp Solution](./solutions/Intersection%20of%20Two%20Arrays%20II.cpp)
+
 - [Plus One](https://leetcode.com/problems/plus-one/) - [Cpp Solution](./solutions/Plus%20One.cpp)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/) - [Cpp Solution](./solutions/Move%20Zeroes.cpp)
 - [Two Sum](https://leetcode.com/problems/two-sum/) - [Cpp Solution](./solutions/Two%20Sum.cpp)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - [Cpp Solution](./solutions/Valid%20Sudoku.cpp)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) - [Cpp Solution](./solutions/Rotate%20Image.cpp)
-- [Max-Increase-to-keep-city-skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) - [C++ Solution](./solutions/Max%20Increase%20To%20Keep%20City%20Skyline.cpp)
-- [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) - [C++ Solutoin](./solutions/Subrectangle%20Queries.cpp)
-- [Minimum Number Of Operations to Move Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/) - [C++ Solution](./solutions/Minimum%20Number%20Of%20Operations%20To%20Move%20All%20Balls%20To%20Each%20Box.cpp)
-- [Group People By Group Size](//https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) - [C++ Solution](./solutions/Group%20The%20People%20Given%20By%20Group%20Size.cpp)
-- [Summary Ranges](//https://leetcode.com/problems/summary-ranges/) - [C++ Solution](./solutions/Summary%20Ranges.cpp)
 - [Next Permutation](https://leetcode.com/problems/next-permutation/) - [C++ Solution](./solutions/Next%20Permutation.cpp)
 - [Sliding Window Maximum](//https://leetcode.com/problems/sliding-window-maximum/) - [C++ Solution](./solutions/Sliding%20Window%20Maximum.cpp)
 
